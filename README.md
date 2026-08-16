@@ -14,7 +14,6 @@ Clone the **ComfyUI-PainterI2Vadvanced** extension into your ComfyUI `custom_nod
 ```bash
 cd ComfyUI/custom_nodes
 git clone [https://github.com/princepainter/ComfyUI-PainterI2Vadvanced.git](https://github.com/princepainter/ComfyUI-PainterI2Vadvanced.git)
-
 ```
 
 ### 2. Required Model / Patch
@@ -25,7 +24,6 @@ Download the **Anima-LLLite Inpainting v2** model:
 * **Destination Folder:** Place the downloaded `.safetensors` file into:
 ```text
 ComfyUI/models/model_patches/
-
 ```
 
 ---
