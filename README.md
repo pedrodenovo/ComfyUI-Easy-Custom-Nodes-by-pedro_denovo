@@ -13,7 +13,7 @@ Clone the **ComfyUI-PainterI2Vadvanced** extension into your ComfyUI `custom_nod
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone [https://github.com/princepainter/ComfyUI-PainterI2Vadvanced.git](https://github.com/princepainter/ComfyUI-PainterI2Vadvanced.git)
+git clone https://github.com/princepainter/ComfyUI-PainterI2Vadvanced.git
 ```
 
 ### 2. Required Model / Patch
